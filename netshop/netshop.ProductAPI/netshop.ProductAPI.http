@@ -1,0 +1,6 @@
+@netshop.ProductAPI_HostAddress = http://localhost:5149
+
+GET {{netshop.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

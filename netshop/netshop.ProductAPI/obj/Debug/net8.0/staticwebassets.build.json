@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mdATmlz0dGJLohXLxC49Ov0P96XvAf6X3XgyY6HX4MQ=",
+  "Source": "netshop.ProductAPI",
+  "BasePath": "_content/netshop.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
