@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("netshop.ProductAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b31abdfd4c59f1a911d93b6872528be5a450c29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2a2eb283e95ebf6927325908dc2b3d466d56313")]
 [assembly: System.Reflection.AssemblyProductAttribute("netshop.ProductAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("netshop.ProductAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

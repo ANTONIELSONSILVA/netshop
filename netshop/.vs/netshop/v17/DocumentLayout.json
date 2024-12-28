@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anton\\OneDrive\\\u00C1rea de Trabalho\\netshop\\netshop\\",
+  "WorkspaceRootPath": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\anton\\onedrive\\\u00E1rea de trabalho\\netshop\\netshop\\netshop.productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\anton\\onedrive\\\u00E1rea de trabalho\\netshop\\netshop\\netshop.productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\\u00C1rea de Trabalho\\netshop\\netshop\\netshop.ProductAPI\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "netshop.ProductAPI\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\anton\\OneDrive\\\u00C1rea de Trabalho\\netshop\\netshop\\netshop.ProductAPI\\Services\\IProductService.cs",
-              "RelativeToolTip": "netshop.ProductAPI\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "netshop.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Program.cs",
+              "RelativeToolTip": "netshop.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T13:46:02.646Z",
+              "WhenOpened": "2024-12-28T22:33:29.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "netshop.ProductAPI\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "netshop.ProductAPI\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:33:18.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "netshop.ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\appsettings.json",
+              "RelativeToolTip": "netshop.ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T21:11:26.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "netshop.ProductAPI\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Services\\IProductService.cs",
+              "RelativeToolTip": "netshop.ProductAPI\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:46:02.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\\u00C1rea de Trabalho\\netshop\\netshop\\netshop.ProductAPI\\Services\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "netshop.ProductAPI\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\anton\\OneDrive\\\u00C1rea de Trabalho\\netshop\\netshop\\netshop.ProductAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Services\\ProductService.cs",
               "RelativeToolTip": "netshop.ProductAPI\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T13:45:13.137Z",
               "EditorCaption": ""
