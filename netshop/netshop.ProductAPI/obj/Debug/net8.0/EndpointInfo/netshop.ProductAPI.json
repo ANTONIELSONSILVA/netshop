@@ -538,8 +538,9 @@
             "type": "string",
             "nullable": true
           },
-          "category": {
-            "$ref": "#/components/schemas/Category"
+          "categoryName": {
+            "type": "string",
+            "nullable": true
           },
           "categoryId": {
             "type": "integer",

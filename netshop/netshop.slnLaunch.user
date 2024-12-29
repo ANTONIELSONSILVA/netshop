@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Multiplos projetos",
+    "Projects": [
+      {
+        "Path": "netshop.ProductAPI\\netshop.ProductAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\netShop.Web\\netShop.Web\\netShop.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
