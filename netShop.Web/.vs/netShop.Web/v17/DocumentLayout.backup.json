@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|solutionrelative:netshop.web\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|solutionrelative:netshop.web\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|solutionrelative:netshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|solutionrelative:netshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|solutionrelative:netshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B809996-6947-4BB1-849D-D32AD1A04CE0}|netShop.Web\\netShop.Web.csproj|solutionrelative:netshop.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Models\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "netShop.Web\\Models\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Models\\CategoryViewModel.cs",
+              "RelativeToolTip": "netShop.Web\\Models\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:05:55.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "netShop.Web\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "netShop.Web\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:03:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "netShop.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "netShop.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T01:59:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "netShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "netShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T01:58:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "netShop.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "netShop.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T01:56:26.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "netShop.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "netShop.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:55:43.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
