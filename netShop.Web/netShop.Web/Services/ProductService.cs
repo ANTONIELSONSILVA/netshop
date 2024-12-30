@@ -49,7 +49,7 @@ public class ProductService : IProductServices
     {
         var client = _clientFactory.CreateClient("ProductApi");
 
-        using (var response = await client.GetAsync(apiEndpoint + id))
+        using (var response = await client.GetAsync($"{apiEndpoint}/{id}"))
         {
             if (response.IsSuccessStatusCode)
             {
@@ -124,7 +124,8 @@ public class ProductService : IProductServices
     {
         var client = _clientFactory.CreateClient("ProductApi");
 
-        using(var response = await client.DeleteAsync(apiEndpoint + id))
+        //using (var response = await client.DeleteAsync(apiEndpoint + id))
+        using (var response = await client.DeleteAsync($"{apiEndpoint}/{id}"))
         {
             if (response.IsSuccessStatusCode)
             {
