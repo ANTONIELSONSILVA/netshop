@@ -1,0 +1,7 @@
+dotnet new install Duende.IdentityServer.Templates
+
+dotnet new isui
+
+ou
+
+
