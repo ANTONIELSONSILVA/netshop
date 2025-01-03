@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication;
 using netShop.Web.Services;
 using netShop.Web.Services.Contracts;
 
@@ -16,6 +17,34 @@ builder.Services.AddHttpClient("ProductApi", c=>
 builder.Services.AddScoped<IProductServices, ProductService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 
+
+
+// Definindo serviço de Autentificação
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultScheme = "Cookies";
+    options.DefaultChallengeScheme = "oidc";
+})
+    .AddCookie("Cookies", c => c.ExpireTimeSpan = TimeSpan.FromMinutes(10))
+    .AddOpenIdConnect("oidc", options =>
+    {
+        options.Authority = builder.Configuration["ServiceUri:IdentityServer"];
+        options.GetClaimsFromUserInfoEndpoint = true;
+        options.ClientId = "netShop";
+        options.ClientSecret = builder.Configuration["Client:Secret"];
+        options.ResponseType = "code";
+        options.ClaimActions.MapJsonKey("role", "role", "role");
+        options.ClaimActions.MapJsonKey("sub", "sub", "sub");
+        options.TokenValidationParameters.NameClaimType = "name";
+        options.TokenValidationParameters.RoleClaimType = "role";
+        options.Scope.Add("netShop");
+        options.SaveTokens = true;
+    });
+
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,6 +60,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+// importante para o autentificação
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

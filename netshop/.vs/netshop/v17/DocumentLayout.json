@@ -3,22 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E457982-9393-46BE-83FB-4735C910954A}|..\\netShop.IdentityServer\\netShop.IdentityServer.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E457982-9393-46BE-83FB-4735C910954A}|..\\netShop.IdentityServer\\netShop.IdentityServer.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.identityserver\\seeddatabase\\databaseseedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E457982-9393-46BE-83FB-4735C910954A}|..\\netShop.IdentityServer\\netShop.IdentityServer.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.identityserver\\seeddatabase\\idatabaseseedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E457982-9393-46BE-83FB-4735C910954A}|..\\netShop.IdentityServer\\netShop.IdentityServer.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E457982-9393-46BE-83FB-4735C910954A}|..\\netShop.IdentityServer\\netShop.IdentityServer.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.identityserver\\mainmodule\\homecontrolleridentityserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop\\netshop.productapi\\netshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{046CC624-F383-469F-B24F-C382BC1DA488}|netshop.ProductAPI\\netshop.ProductAPI.csproj|solutionrelative:netshop.productapi\\netshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E457982-9393-46BE-83FB-4735C910954A}|..\\netShop.IdentityServer\\netShop.IdentityServer.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.identityserver\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A7C7701-BFAF-4E98-9C82-D88564B29149}|..\\netShop.Web\\netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E457982-9393-46BE-83FB-4735C910954A}|..\\netShop.IdentityServer\\netShop.IdentityServer.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A7C7701-BFAF-4E98-9C82-D88564B29149}|..\\netShop.Web\\netShop.Web\\netShop.Web.csproj|c:\\users\\antonielson\\desktop\\netshop\\netshop.web\\netshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,85 +31,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "netshop.ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\appsettings.json",
+              "RelativeToolTip": "netshop.ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T06:14:18.122Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\Program.cs",
-              "RelativeDocumentMoniker": "..\\netShop.IdentityServer\\Program.cs",
-              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\Program.cs",
-              "RelativeToolTip": "..\\netShop.IdentityServer\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAFQAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "netshop.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\Program.cs",
+              "RelativeToolTip": "netshop.ProductAPI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T21:00:49.282Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataBaseSeedInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\SeedDatabase\\DataBaseSeedInitializer.cs",
-              "RelativeDocumentMoniker": "..\\netShop.IdentityServer\\SeedDatabase\\DataBaseSeedInitializer.cs",
-              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\SeedDatabase\\DataBaseSeedInitializer.cs",
-              "RelativeToolTip": "..\\netShop.IdentityServer\\SeedDatabase\\DataBaseSeedInitializer.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwG0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T02:52:37.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IDataBaseSeedInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\SeedDatabase\\IDataBaseSeedInitializer.cs",
-              "RelativeDocumentMoniker": "..\\netShop.IdentityServer\\SeedDatabase\\IDataBaseSeedInitializer.cs",
-              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\SeedDatabase\\IDataBaseSeedInitializer.cs",
-              "RelativeToolTip": "..\\netShop.IdentityServer\\SeedDatabase\\IDataBaseSeedInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T02:51:42.713Z",
+              "WhenOpened": "2024-12-31T06:12:20.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeControllerIdentityServer.cs",
-              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\MainModule\\HomeControllerIdentityServer.cs",
-              "RelativeDocumentMoniker": "..\\netShop.IdentityServer\\MainModule\\HomeControllerIdentityServer.cs",
-              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\MainModule\\HomeControllerIdentityServer.cs",
-              "RelativeToolTip": "..\\netShop.IdentityServer\\MainModule\\HomeControllerIdentityServer.cs",
+              "Title": "netshop.ProductAPI",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\netshop.ProductAPI.csproj",
+              "RelativeDocumentMoniker": "netshop.ProductAPI\\netshop.ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netshop\\netshop.ProductAPI\\netshop.ProductAPI.csproj",
+              "RelativeToolTip": "netshop.ProductAPI\\netshop.ProductAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T02:41:48.81Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T06:11:12.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
-              "RelativeDocumentMoniker": "..\\netShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
-              "RelativeToolTip": "..\\netShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
-              "ViewState": "AgIAAE4BAAAAAAAAAIAwwHcBAABYAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "..\\netShop.Web\\netShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\Program.cs",
+              "RelativeToolTip": "..\\netShop.Web\\netShop.Web\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T22:36:08.796Z",
+              "WhenOpened": "2024-12-31T06:00:56.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IdentityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\netShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
-              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
-              "RelativeToolTip": "..\\netShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAApwBsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T18:25:53.363Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\netShop.Web\\netShop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.Web\\netShop.Web\\appsettings.json",
+              "RelativeToolTip": "..\\netShop.Web\\netShop.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T05:59:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\netShop.IdentityServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Antonielson\\Desktop\\netshop\\netShop.IdentityServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\netShop.IdentityServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T05:58:46.55Z",
               "EditorCaption": ""
             }
           ]

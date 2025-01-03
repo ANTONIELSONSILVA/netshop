@@ -9,6 +9,10 @@
       {
         "Path": "..\\netShop.Web\\netShop.Web\\netShop.Web.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "..\\netShop.IdentityServer\\netShop.IdentityServer.csproj",
+        "Action": "Start"
       }
     ]
   }

@@ -128,10 +128,10 @@ C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\sta
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.netShop.IdentityServer.props
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.netShop.IdentityServer.props
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\netShop..F90F170A.Up2Date
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\netShop.IdentityServer.dll
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\refint\netShop.IdentityServer.dll
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\netShop.IdentityServer.pdb
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\netShop.IdentityServer.genruntimeconfig.cache
 C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\ref\netShop.IdentityServer.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.IdentityServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

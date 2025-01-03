@@ -33,3 +33,14 @@ C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\obj\Debug\net8.0\re
 C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\obj\Debug\net8.0\netShop.Web.pdb
 C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\obj\Debug\net8.0\netShop.Web.genruntimeconfig.cache
 C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\obj\Debug\net8.0\ref\netShop.Web.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\obj\Debug\net8.0\netShop.Web.csproj.AssemblyReference.cache
+C:\Users\Antonielson\Desktop\netshop\netShop.Web\netShop.Web\obj\Debug\net8.0\netShop..2E695648.Up2Date

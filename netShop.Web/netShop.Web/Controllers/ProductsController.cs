@@ -1,9 +1,11 @@
 ﻿using System.IO.Pipes;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using netShop.Web.Models;
 using netShop.Web.Services.Contracts;
+using netShop.Web.Roles;
 
 namespace netShop.Web.Controllers;
 
@@ -42,6 +44,7 @@ public class ProductsController : Controller
 
 
     [HttpPost]
+    [Authorize]
     public async Task<IActionResult> CreateProduct(ProductViewModel productVM)
     {
 
@@ -73,6 +76,7 @@ public class ProductsController : Controller
     }
 
     [HttpPost]
+    [Authorize]
     public async Task<IActionResult> UpdateProduct(ProductViewModel productVM)
     {
         if (ModelState.IsValid)
@@ -87,6 +91,7 @@ public class ProductsController : Controller
 
 
     [HttpGet]
+    [Authorize]
     public async Task<ActionResult<ProductViewModel>> DeleteProduct(int id)
     {
         var result = await _productsServices.FindProductById(id);
@@ -98,6 +103,7 @@ public class ProductsController : Controller
     }
 
     [HttpPost(), ActionName("DeleteProduct")]
+    [Authorize(Roles = Role.Admin)]
     public async Task<IActionResult> DeleteConfirmed(int id)
     {
         var result = await _productsServices.DeleteProductById(id);

@@ -232,3 +232,11 @@ C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\obj\Debug\net8.0
 C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\obj\Debug\net8.0\netshop.ProductAPI.pdb
 C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\obj\Debug\net8.0\netshop.ProductAPI.genruntimeconfig.cache
 C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\obj\Debug\net8.0\ref\netshop.ProductAPI.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Antonielson\Desktop\netshop\netshop\netshop.ProductAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

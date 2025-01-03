@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "netshop.ProductAPI",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
     "/api/Categories": {
@@ -538,6 +538,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Enter 'Bearer' [space] seu token",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

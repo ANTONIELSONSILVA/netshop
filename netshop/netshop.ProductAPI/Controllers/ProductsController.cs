@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using netshop.ProductAPI.DTOs;
+using netshop.ProductAPI.Roles;
 using netshop.ProductAPI.Services;
 
 namespace netshop.ProductAPI.Controllers;
@@ -8,6 +10,7 @@ namespace netshop.ProductAPI.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class ProductsController : ControllerBase
 {
     private readonly IProductService productService;
@@ -65,6 +68,7 @@ public class ProductsController : ControllerBase
 
 
     [HttpDelete("{id:int}")]
+    [Authorize (Roles = Role.Admin)]
     public async Task<ActionResult<ProductDTO>> Delete (int id)
     {
         var productDto = await productService.GetProductById(id);
